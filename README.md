@@ -1,2 +1,2 @@
 # Algorithm
-The algorithm log.
+The algorithm code log.
