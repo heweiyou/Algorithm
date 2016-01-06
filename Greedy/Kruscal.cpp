@@ -59,7 +59,7 @@ void Kruscal(Edge* e,int n,int m)
 {
 	bool flag[MAX];
 	int u,v,w;
-	int cnt;
+	int cnt;//最小生成树所有边权值之和
 	int elen;//已计算边数
 	
 	cnt = 0;
